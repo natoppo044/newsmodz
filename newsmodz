@@ -26,7 +26,7 @@ local othersTITLE = Instance.new("TextLabel")
 
 local fusepets = Instance.new("TextButton")
 
-local gamepasses = Instance.new("TextButton")
+local gamepasses = Instance.new("TextButton
 
 local autofarm = Instance.new("TextButton")
 
@@ -512,7 +512,7 @@ autofarm.Size = UDim2.new(0, 129, 0, 60)
 
 autofarm.Font = Enum.Font.SourceSans
 
-autofarm.Text = "AUTOFARM BY vlxne.spinxo#5577"
+autofarm.Text = "AUTOFARM VIP"
 
 autofarm.TextColor3 = Color3.fromRGB(255, 255, 255)
 
@@ -536,6 +536,6 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 	Title = "CREDITS",     
 
-		Text = "made by DH sus#2733 and yZii#4041",
+		Text = "NEWS MODZ",
 
 			Button1 = ":D",     Duration = 20, })
